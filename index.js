@@ -1,4 +1,4 @@
-const correctAnswer = ["script", "At the end of body section", `"script src="index.js"`, `alert("Hello World");`, "="];
+const correctAnswer = ["D", "B", "C", "B", "D"];
 const form = document.querySelector(".quiz-form");
 const result = document.querySelector(".result");
 const questions = document.querySelectorAll(".question");
